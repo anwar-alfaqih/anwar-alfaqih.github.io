@@ -4,7 +4,7 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.app.anwar.alfaqih.yemen",
-      "sha256_cert_fingerprints": [ "8C:86:10:9D:BF:12:2F:99:86:1D:CD:83:1E:BA:E9:04:A9:69:A3:DB:57:FA:F8:21:7B:53:8C:59:28:20:22:34" ]
+      "sha256_cert_fingerprints": [ "D6:21:1C:4F:3D:19:FB:1F:FD:48:F6:BD:45:B8:E5:8C:8D:B8:10:CB:28:DD:D1:45:A7:FC:BE:52:D6:C1:20:49" ]
     }
   }
 ]

@@ -1,0 +1,10 @@
+[
+  {
+    "relation": [ "delegate_permission/common.handle_all_urls" ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.anwar_alfaqih.twa",
+      "sha256_cert_fingerprints": [ "8C:86:10:9D:BF:12:2F:99:86:1D:CD:83:1E:BA:E9:04:A9:69:A3:DB:57:FA:F8:21:7B:53:8C:59:28:20:22:34" ]
+    }
+  }
+]
